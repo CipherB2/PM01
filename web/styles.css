@@ -1,0 +1,14 @@
+html
+{
+background-image: url(fon1.jpg);
+background-size: 100%;
+}
+h1{
+font-family: Monotype Corsiva;
+font-size: 24px;
+font-weight: normal;
+text-decoration: underline;
+border: 1px solid;
+padding: 10px;
+background-color:#E0FFFF;
+}
